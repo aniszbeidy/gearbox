@@ -1,0 +1,11 @@
+Model Information:
+* title:	Triple Speed Bevel Gears
+* source:	https://sketchfab.com/3d-models/triple-speed-bevel-gears-53b8ba3cde8d4b38b3a97a2410cf76a2
+* author:	trinityscsp (https://sketchfab.com/trinityscsp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Triple Speed Bevel Gears" (https://sketchfab.com/3d-models/triple-speed-bevel-gears-53b8ba3cde8d4b38b3a97a2410cf76a2) by trinityscsp (https://sketchfab.com/trinityscsp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
